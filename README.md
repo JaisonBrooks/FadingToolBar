@@ -12,3 +12,4 @@ Screenshots
 
 Credit
 ======
+Used code from [Manuel Peinado!](https://gist.github.com/ManuelPeinado/561748b9fa42d3b25661)
