@@ -16,6 +16,8 @@ import com.manuelpeinado.fadingactionbar.view.ObservableScrollable;
 import com.manuelpeinado.fadingactionbar.view.OnScrollChangedCallback;
 import com.readystatesoftware.systembartint.SystemBarTintManager;
 
+/** Base code from ManuelPeinado | https://gist.github.com/ManuelPeinado/561748b9fa42d3b25661 **/
+
 
 public class MainActivity extends ActionBarActivity implements OnScrollChangedCallback {
 
